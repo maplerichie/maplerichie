@@ -7,7 +7,7 @@
 
 - 🤔 I’m looking for help with [Flutter Wordpress Suite](https://github.com/maplerichie/wordpress_suite)
 
-- 👨‍💻 All of my projects are available at [github.com/maplerichie](github.com/maplerichie)
+- 👨‍💻 All of my projects are available at **...**
 
 - 📝 I regulary write articles on 🧠
 
